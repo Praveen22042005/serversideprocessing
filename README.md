@@ -104,10 +104,12 @@ Publish the website using the domain name
 ```
 
 ## OUTPUT:
-![output](pic1.jpeg)
+![s](https://github.com/Praveen22042005/serversideprocessing/assets/112475766/99fc7e9d-3197-4499-a54a-a2d23511475a)
+
 
 ### Home Page:
-![output](pic1.jpeg)
+![s](https://github.com/Praveen22042005/serversideprocessing/assets/112475766/98692eb3-0caf-4744-b2f4-5573a06805c7)
+
 
 ## Result:
 
